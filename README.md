@@ -82,11 +82,8 @@ Notifications
 UI improvements
 📸 Demo
 
-👉 (Add your demo video link here)
-
-🌍 Live Demo
-
 👉 (Add Railway deployment link here)
+https://lucid-enthusiasm-production-66b1.up.railway.app/
 
 👨‍💻 Author
 Rajveer Singh
